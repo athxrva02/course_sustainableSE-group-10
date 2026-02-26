@@ -1,9 +1,9 @@
 ---
-author: Student1 first and last name, Student2, Student3
+author: Atharva Dagaonkar, Kasper van Maasdam, Ignas Vasiliauskas, Andreas Tsatsanis
 group_number: 10
-title: "Title of the Template blog"
-image: "img/gX_template/project_cover.png"
-date: 03/03/2022
+title: "The 'Daemon' Tax: An Energy Analysis of Docker and Podman across RESTful and Computational Workloads"
+image: "img/g10_template/project_cover.jpg"
+date: 27-02-2026
 summary: |-
   abstract Lorem ipsum dolor sit amet, consectetur adipisicing elit,
   sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
